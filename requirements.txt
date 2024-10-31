@@ -1,0 +1,5 @@
+## Requirements
+
+- **Python 3.x**
+- **Selenium Library**: Install via `pip`
+- **Chrome WebDriver** (auto-installed with `webdriver_manager`)
